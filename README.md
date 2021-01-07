@@ -1,2 +1,2 @@
-# Just-Gravity
-A simple game made with unity with a lot of gravity
+# Just Gravity
+This a simple game made with the unity [a link](https://github.com/user/repo/blob/branch/other_file.md) game engine 

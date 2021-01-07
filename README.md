@@ -1,2 +1,2 @@
 # Just Gravity
-This a simple game made with the unity [a link](https://github.com/user/repo/blob/branch/other_file.md) game engine 
+This a simple game made with the [unity](https://unity.com/) game engine that is targeted torwards android phones (via google play)
